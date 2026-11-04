@@ -2,5 +2,6 @@
 
 ##Members:
 - Nao
-- Sebastian
+- DA17201 - Sebastian
 - DA17207-Mohammed Ali 
+
