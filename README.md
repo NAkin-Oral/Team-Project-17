@@ -1,7 +1,7 @@
 # Team-Project-17
-
-## Members:
+#Members:
 - Nao: I am going to get my bike
 - DA17201 - Sebastian
-- DA17207-Mohammed Ali 
+- DA17207-Mohammed Ali: I'am going to learn DevOps 
 - Da17202 - youssef I will get new job as Devops
+
